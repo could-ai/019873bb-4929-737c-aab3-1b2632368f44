@@ -78,7 +78,7 @@ class _ChatScreenState extends State<ChatScreen> {
         backgroundColor: Theme.of(context).colorScheme.primary,
         foregroundColor: Theme.of(context).colorScheme.onPrimary,
       ),
-      backgroundColor: Colors.red,
+      backgroundColor: Colors.blue,
       body: Column(
         children: <Widget>[
           Flexible(
